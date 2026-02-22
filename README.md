@@ -1,14 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff41&height=120&section=header&text=crackalove&fontSize=40&fontColor=00ff41&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=100&section=header&text=crackalove&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=480&lines=security+researcher;reverse+engineer;rust+%7C+c%2B%2B+%7C+python;breaking+things+to+understand+them+%2F%2F)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=security+researcher;reverse+engineer;rust+%7C+c%2B%2B+%7C+python;breaking+things+to+understand+them)](https://git.io/typing-svg)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=crackalove.crackalove&left_color=black&right_color=00ff41&left_text=visitors)
+![](https://komarev.com/ghpvc/?username=crackalove&color=ffffff&style=flat&label=profile+views)
 
 </div>
 
----
+<br>
 
 ```python
 cracka = {
@@ -16,68 +16,47 @@ cracka = {
     "focus"   : ["security research", "reverse engineering", "exploit dev"],
     "stack"   : ["Rust", "C++", "Python"],
     "tools"   : ["GDB", "IDA Pro", "radare2", "Wireshark", "Burp Suite"],
-    "os"      : "Arch btw",
     "status"  : "currently breaking something",
 }
 ```
 
----
+<br>
 
 <div align="center">
 
-### stack
-
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASM-%23FF0000.svg?style=for-the-badge&logoColor=white)
-
-### tools
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-red?style=for-the-badge)
-![IDA](https://img.shields.io/badge/IDA_Pro-orange?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=crackalove&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=888888&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackalove&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=888888&langs_count=6" height="165"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=crackalove&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackalove&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=crackalove&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=crackalove&theme=dark&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=crackalove&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=crackalove&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
-
-<div align="center">
-
-### activity
-
-![snake](https://raw.githubusercontent.com/crackalove/crackalove/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<br>
 
 ---
 
@@ -85,4 +64,4 @@ cracka = {
 <sub>// the quieter you become, the more you are able to hear</sub>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d0d0d&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:000000&height=80&section=footer)
