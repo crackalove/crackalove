@@ -1,67 +1,135 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=100&section=header&text=crackalove&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=crackalove&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=security+researcher;reverse+engineer;rust+%7C+c%2B%2B+%7C+python;breaking+things+to+understand+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=security+researcher;reverse+engineer;low-level+systems+programmer;rust+%7C+c%2B%2B+%7C+python;breaking+things+to+understand+them)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=crackalove&color=ffffff&style=flat&label=profile+views)
+![](https://komarev.com/ghpvc/?username=crackalove&color=ffffff&style=flat-square&label=profile+views)
 
 </div>
 
-<br>
+---
 
-```python
-cracka = {
-    "handle"  : "crackalove",
-    "focus"   : ["security research", "reverse engineering", "exploit dev"],
-    "stack"   : ["Rust", "C++", "Python"],
-    "tools"   : ["GDB", "IDA Pro", "radare2", "Wireshark", "Burp Suite"],
-    "status"  : "currently breaking something",
-}
-```
+### 👋 Hey, I'm crackalove
 
-<br>
+A self-taught **security researcher** and **low-level systems programmer** with a deep interest in how things break. I reverse engineer binaries, write exploits, and build tools in Rust, C++, and Python. If it runs on bare metal, I want to know how it works — and how to make it do something it wasn't supposed to.
+
+I work mostly in the dark — offensive security, vulnerability research, malware analysis, and anything that requires reading assembly at 3am.
+
+> *"The quieter you become, the more you are able to hear."*
+
+---
+
+### 🔭 What I'm working on
+
+- Building custom tooling for binary analysis in **Rust**
+- Researching memory corruption vulnerabilities
+- Studying kernel internals and low-level exploitation techniques
+- Improving my **reverse engineering** workflow
+
+### 🌱 Currently learning
+
+- Kernel exploitation & OS internals
+- Fuzzing techniques (libFuzzer, AFL++)
+- Advanced malware analysis
+
+### 💬 Ask me about
+
+Reverse engineering, binary exploitation, low-level systems programming, Rust, C++, Python scripting for security.
+
+---
+
+### 🛠️ Languages
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Assembly](https://skillicons.dev/icons?i=nasm&theme=dark)](https://nasm.us/)
+
+</div>
+
+### ⚙️ Tools & Environment
+
+<div align="center">
+
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
+
+</div>
+
+<div align="center">
+
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=white)
+![radare2](https://img.shields.io/badge/radare2-000000?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=white)
+![pwndbg](https://img.shields.io/badge/pwndbg-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
-<br>
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=crackalove&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackalove&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=crackalove&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackalove&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=crackalove&theme=dark&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=crackalove&theme=dark&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=cccccc)](https://git.io/streak-stats)
 
 </div>
 
-<br>
+---
+
+### 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=crackalove&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=crackalove&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br>
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![crackalove's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crackalove&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+[![cracka.cfd](https://img.shields.io/badge/cracka.cfd-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://cracka.cfd)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crackalove)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>// the quieter you become, the more you are able to hear</sub>
+<sub>// null</sub>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:000000&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer)
