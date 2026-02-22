@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header&text=crackalove&fontSize=40&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=security%20researcher%20%2F%20reverse%20engineer&descSize=13&descAlignY=82&descColor=666666)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header&text=cracka&fontSize=40&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=security%20researcher%20%2F%20reverse%20engineer&descSize=13&descAlignY=82&descColor=666666)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&lines=security+researcher+%2F+reverser;low-level+systems+programmer;c%2B%2B+%7C+python+%7C+asm;elliot+was+right+about+everything;breaking+things+to+understand+them)](https://git.io/typing-svg)
 
