@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header&text=cracka&fontSize=40&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=security%20researcher%20%2F%20reverse%20engineer&descSize=13&descAlignY=82&descColor=666666)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header&text=crackalove&fontSize=40&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=security%20researcher%20%2F%20reverse%20engineer&descSize=13&descAlignY=82&descColor=666666)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&lines=security+researcher+%2F+reverser;low-level+systems+programmer;c%2B%2B+%7C+python+%7C+asm;elliot+was+right+about+everything;breaking+things+to+understand+them)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@
 
 ## 🖤 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Hey. I'm **cracka** — a self-taught **security researcher**, **reverse engineer**, and **low-level systems programmer** driven by one obsession: understanding how things *really* work under the hood.
+Hey. I'm **crackalove** — a self-taught **security researcher**, **reverse engineer**, and **low-level systems programmer** driven by one obsession: understanding how things *really* work under the hood.
 
 It started simple — curiosity. Why does this crash? What does this binary actually do? How does the OS decide what runs and what doesn't? That curiosity turned into years of going deeper and deeper down the rabbit hole. Assembly language became readable. Disassemblers became familiar. Memory layouts stopped being scary. Now I spend most of my time in territory that most developers never touch — reading raw opcodes, analysing malware, writing exploit primitives, and building tooling to automate the dark arts.
 
@@ -186,6 +186,22 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 
 [![Website](https://img.shields.io/badge/cracka.cfd-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://cracka.cfd)
 [![Telegram](https://img.shields.io/badge/@UnRezolved-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UnRezolved)
+
+<br/>
+
+```
+if you want to talk — you know where to find me.
+open to: collabs / research / interesting problems.
+not open to: nonsense.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/e9/64/b4/e964b47185656af853edf359f9b9f688.gif" width="500" alt="Mr Robot - Elliot"/>
 
 </div>
 
