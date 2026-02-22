@@ -1,13 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=header&text=crackalove&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=90&section=header&text=crackalove&fontSize=40&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=security%20researcher%20%2F%20reverse%20engineer&descSize=13&descAlignY=82&descColor=666666)
 
-# 𝙷𝚎𝚕𝚕𝚘, 𝚠𝚘𝚛𝚕𝚍. 👾
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&lines=security+researcher+%2F+reverser;low-level+systems+programmer;c%2B%2B+%7C+python+%7C+asm;elliot+was+right+about+everything;breaking+things+to+understand+them)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&lines=security+researcher+%2F+reverser;low-level+systems+programmer;c%2B%2B+%7C+python+%7C+asm;elliot+was+right+about+everything;breaking+things+to+understand+them)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=crackalove&color=ffffff&style=flat-square&label=👁+profile+views)
-&nbsp;
+![](https://komarev.com/ghpvc/?username=crackalove&color=ffffff&style=flat-square&label=👁+views)
+&nbsp;&nbsp;
 [![followers](https://img.shields.io/github/followers/crackalove?label=Followers&style=social)](https://github.com/crackalove)
 
 </div>
@@ -16,8 +14,7 @@
 
 <div align="center">
 
-<!-- Mr Robot GIF -->
-<img src="https://media1.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif" width="700" alt="Mr Robot"/>
+<img src="https://i.pinimg.com/originals/81/ad/ef/81adef4e33b359945e5f11117166b5fc.gif" width="680" alt="Mr Robot - Elliot Alderson"/>
 
 </div>
 
@@ -38,7 +35,6 @@ Beyond technical skills, I think the most important quality in this field is pat
 I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFuzzer), and **malware analysis**. Always building tools. Always breaking things. Always learning.
 
 > *"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime."*
-> *— Elliot Alderson, probably.*
 
 ---
 
@@ -48,16 +44,16 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 
 - 🔭 &nbsp; 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **binary analysis tooling in C++**
 - 🌱 &nbsp; 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **kernel exploitation & OS internals**
-- 👾 &nbsp; 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 **malware analysis & RE**
-- 🎯 &nbsp; 𝙵𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 **low-level offensive security**
+- 👾 &nbsp; 𝙸𝚗𝚝𝚘 **malware analysis & reverse engineering**
+- 🎯 &nbsp; 𝙵𝚘𝚌𝚞𝚜 **low-level offensive security**
 
 </td>
 <td>
 
 - 💬 &nbsp; 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **reversing, exploits, C++, Python**
-- 🌐 &nbsp; **cracka.cfd**
-- 📡 &nbsp; 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖: **@UnRezolved**
-- 🦉 &nbsp; 𝙸'𝚖 𝚊 **night owl** — best work after midnight
+- 🌐 &nbsp; **[cracka.cfd](https://cracka.cfd)**
+- 📡 &nbsp; 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 **[@UnRezolved](https://t.me/UnRezolved)**
+- 🦉 &nbsp; 𝙱𝚎𝚜𝚝 𝚠𝚘𝚛𝚔 **after midnight**
 
 </td>
 </tr>
@@ -73,17 +69,16 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![Assembly](https://img.shields.io/badge/x86_ASM-000000?style=for-the-badge&logoColor=white)](https://nasm.us/)
 
 </div>
 
 ---
 
-## ⚙️ 𝚁𝚎𝚟𝚎𝚛𝚜𝚒𝚗𝚐 & 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 𝚃𝚘𝚘𝚕𝚜
+## ⚙️ 𝚃𝚘𝚘𝚕𝚜
 
 <div align="center">
 
-**Disassemblers / Decompilers**
+**𝙳𝚒𝚜𝚊𝚜𝚜𝚎𝚖𝚋𝚕𝚎𝚛𝚜 & 𝙳𝚎𝚌𝚘𝚖𝚙𝚒𝚕𝚎𝚛𝚜**
 
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000?style=for-the-badge&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-000?style=for-the-badge&logoColor=white)
@@ -92,18 +87,20 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 ![Cutter](https://img.shields.io/badge/Cutter-000?style=for-the-badge&logoColor=white)
 ![RetDec](https://img.shields.io/badge/RetDec-000?style=for-the-badge&logoColor=white)
 ![Hopper](https://img.shields.io/badge/Hopper-000?style=for-the-badge&logoColor=white)
+![angr](https://img.shields.io/badge/angr-000?style=for-the-badge&logoColor=white)
 
-**Debuggers**
+**𝙳𝚎𝚋𝚞𝚐𝚐𝚎𝚛𝚜**
 
 ![GDB](https://img.shields.io/badge/GDB-000?style=for-the-badge&logoColor=white)
 ![pwndbg](https://img.shields.io/badge/pwndbg-000?style=for-the-badge&logoColor=white)
-![peda](https://img.shields.io/badge/PEDA-000?style=for-the-badge&logoColor=white)
+![PEDA](https://img.shields.io/badge/PEDA-000?style=for-the-badge&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-000?style=for-the-badge&logoColor=white)
 ![OllyDbg](https://img.shields.io/badge/OllyDbg-000?style=for-the-badge&logoColor=white)
 ![WinDbg](https://img.shields.io/badge/WinDbg-000?style=for-the-badge&logoColor=white)
 ![LLDB](https://img.shields.io/badge/LLDB-000?style=for-the-badge&logoColor=white)
+![edb](https://img.shields.io/badge/edb--debugger-000?style=for-the-badge&logoColor=white)
 
-**Exploitation Frameworks**
+**𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗**
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-000?style=for-the-badge&logoColor=white)
 ![pwntools](https://img.shields.io/badge/pwntools-000?style=for-the-badge&logoColor=white)
@@ -111,15 +108,17 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 ![ropper](https://img.shields.io/badge/ropper-000?style=for-the-badge&logoColor=white)
 ![one_gadget](https://img.shields.io/badge/one__gadget-000?style=for-the-badge&logoColor=white)
 ![checksec](https://img.shields.io/badge/checksec-000?style=for-the-badge&logoColor=white)
+![exploitdb](https://img.shields.io/badge/ExploitDB-000?style=for-the-badge&logoColor=white)
 
-**Fuzzing**
+**𝙵𝚞𝚣𝚣𝚒𝚗𝚐**
 
 ![AFL++](https://img.shields.io/badge/AFL++-000?style=for-the-badge&logoColor=white)
 ![libFuzzer](https://img.shields.io/badge/libFuzzer-000?style=for-the-badge&logoColor=white)
 ![honggfuzz](https://img.shields.io/badge/honggfuzz-000?style=for-the-badge&logoColor=white)
 ![Boofuzz](https://img.shields.io/badge/Boofuzz-000?style=for-the-badge&logoColor=white)
+![Peach](https://img.shields.io/badge/Peach_Fuzzer-000?style=for-the-badge&logoColor=white)
 
-**Network / Traffic**
+**𝙽𝚎𝚝𝚠𝚘𝚛𝚔 & 𝚃𝚛𝚊𝚏𝚏𝚒𝚌**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -127,22 +126,22 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 ![tcpdump](https://img.shields.io/badge/tcpdump-000?style=for-the-badge&logoColor=white)
 ![mitmproxy](https://img.shields.io/badge/mitmproxy-000?style=for-the-badge&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-000?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-000?style=for-the-badge&logoColor=white)
 
-**Binary Analysis / Misc**
+**𝙱𝚒𝚗𝚊𝚛𝚢 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 & 𝙼𝚒𝚜𝚌**
 
 ![strace](https://img.shields.io/badge/strace-000?style=for-the-badge&logoColor=white)
 ![ltrace](https://img.shields.io/badge/ltrace-000?style=for-the-badge&logoColor=white)
 ![binwalk](https://img.shields.io/badge/binwalk-000?style=for-the-badge&logoColor=white)
-![strings](https://img.shields.io/badge/strings-000?style=for-the-badge&logoColor=white)
-![file](https://img.shields.io/badge/file-000?style=for-the-badge&logoColor=white)
 ![objdump](https://img.shields.io/badge/objdump-000?style=for-the-badge&logoColor=white)
 ![readelf](https://img.shields.io/badge/readelf-000?style=for-the-badge&logoColor=white)
-![nm](https://img.shields.io/badge/nm-000?style=for-the-badge&logoColor=white)
+![strings](https://img.shields.io/badge/strings-000?style=for-the-badge&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-000?style=for-the-badge&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-000?style=for-the-badge&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-000?style=for-the-badge&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-000?style=for-the-badge&logoColor=white)
 
-**Environment**
+**𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝**
 
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
@@ -158,8 +157,8 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=crackalove&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackalove&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=crackalove&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackalove&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8"/>
 
 </div>
 
@@ -175,7 +174,7 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crackalove&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crackalove&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -194,8 +193,7 @@ I'm currently going deeper on **kernel exploitation**, **fuzzing** (AFL++, libFu
 
 <div align="center">
 
-<!-- Anime pixel art GIF -->
-<img src="https://media.tenor.com/images/5154fdb5c3a2d9faf3ab15c6f3beae72/tenor.gif" width="400" alt="pixel anime"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="400" alt="pixel anime"/>
 
 </div>
 
