@@ -115,8 +115,4 @@ Reverse engineering, binary exploitation, low-level systems programming, C++, Py
 
 ---
 
-<div align="center">
-<sub>// null</sub>
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer)
